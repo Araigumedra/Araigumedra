@@ -1,5 +1,4 @@
 # 🍙 Howdy 🍙
-<IMG SRC="https://images.boredomfiles.com/wp-content/uploads/2015/12/02-raccoon-steals-carpet-gif.gif">
 
 
 My name is Emma and I'm a college student learning about programming and computer science 💻. Got a few hobbies and interests, but I'm here to expand my skillset and document my progress. Hopefully I can engage with a few communities and make some friends along the way 🦝🤝👩‍💻
