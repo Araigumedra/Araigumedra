@@ -77,7 +77,7 @@ My name is Emma and I'm a college student learning about programming and compute
       alt="Adobe Illustrator Icon"
       width=64
       height=64/>
-</a> 
+</a> Adobe Illustrator
 
 
 ## Lastly...
