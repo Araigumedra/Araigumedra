@@ -32,40 +32,52 @@ My name is Emma and I'm a college student learning about programming and compute
         width=64
         height=64/>
   </a> Flask
-
+  <a href="http://www.google.com" class="image">
+  <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" 
+      alt="React Icon"
+      width=64
+      height=64/>
+  </a> React
+  <a href="http://www.google.com" class="image">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png" 
+        alt="Django Icon"
+        width=64
+        height=64/>
+  </a> Django
+  
   
 ## Learning: 
 
   
-<a href="http://www.google.com" class="image">
-<img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" 
-      alt="React Icon"
-      width=64
-      height=64/>
-</a> React
+  <a href="http://www.google.com" class="image">
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" 
+        alt="Unity Icon"
+        width=64
+        height=64/>
+  </a> Unity
+  <a href="http://www.google.com" class="image">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" 
+        alt="Figma Icon"
+        width=64
+        height=64/>
+  </a> Figma
   
 
 ## Interested in Learning: 
 
 
 <a href="http://www.google.com" class="image">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/rust-512.png" 
-      alt="Rust Icon"
-      width=64
-      height=64/>
-</a> Rust
-<a href="http://www.google.com" class="image">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-1024.png" 
-      alt="NodeJS Icon"
-      width=64
-      height=64/>
-</a> NodeJS
-<a href="http://www.google.com" class="image">
 <img src="https://blog.gikken.co/content/images/2020/03/1200px-Kotlin-logo.svg-2.png" 
       alt="Kotlin Icon"
       width=64
       height=64/>
 </a> Kotlin
+<a href="http://www.google.com" class="image">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" 
+      alt="Adobe Illustrator Icon"
+      width=64
+      height=64/>
+</a> 
 
 
 ## Lastly...
