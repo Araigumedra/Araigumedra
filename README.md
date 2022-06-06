@@ -83,6 +83,5 @@ My name is Emma and I'm a college student learning about programming and compute
 ## Lastly...
 
   
-Some of those interests I talked about... I'm a huge sci fi fan and an avid gamer. Soon I'm going to
-be working on making something for Monster Hunter Rise, don't know exactly what yet (semester is pretty crazy right now) but probably
-a web based field guide/wiki so I can practice with React. If you ever want to chat send a message my way!
+Some of those interests I talked about... I'm a huge sci-fi fan and an avid gamer. Soon I'm going to
+be working on making something for Monster Hunter Rise, a field guide/wiki app so I can practice with React Native. Digital art is another hobby of mine and I've started to work more on it so I can fully explore and exercise my creative muse. If you ever want to chat send a message my way!
