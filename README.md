@@ -1,7 +1,7 @@
 # 🍙 Howdy 🍙
 
 
-My name is Emma and I'm a college student learning about programming and computer science 💻. Got a few hobbies and interests, but I'm here to expand my skillset and document my progress. Hopefully I can engage with a few communities and make some friends along the way 🦝🤝👩‍💻
+My name is Emma and I'm a recent student graduate learning about programming and computer science 💻. Got a few hobbies and interests, but I'm here to expand my skillset and document my progress. Hopefully I can engage with a few communities and make some friends along the way 🦝🤝👩‍💻
 
   
 ## Skills: 
